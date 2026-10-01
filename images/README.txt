@@ -2,7 +2,7 @@
 
 นำรูปของคุณมาไว้ในโฟลเดอร์นี้ แล้วตั้งชื่อเป็น:
 
-photo1.jpg
+photo1.png
 photo2.jpg
 photo3.jpg
 photo4.jpg
